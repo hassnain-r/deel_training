@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1645949848303' stop='1645949883522'>
+    <name>Create Contract</name>
+    <title>Create Contract</title>
+    <test-cases>
+        <test-case start='1645949848303' status='passed' stop='1645949883521'>
+            <name>using fixed rate option</name>
+            <title>using fixed rate option</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.109'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
